@@ -1,5 +1,5 @@
 <?php
-include 'db-config.php';
+include '/configs/config.php';
 
 $query = "SELECT * FROM patients";
 
